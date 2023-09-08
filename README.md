@@ -1,4 +1,4 @@
-Development and issues can be found in [monorepo/inlang](https://github.com/inlang/monorepo/tree/main/inlang).
+Development and issues can be found in [monorepo/inlang](https://github.com/inlang/monorepo).
 
 --- 
 
