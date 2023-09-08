@@ -1,3 +1,7 @@
+Development and issues can be found in [monorepo/inlang](https://github.com/inlang/monorepo/tree/main/inlang).
+
+--- 
+
 <div>
     <p align="center">
         <img width="300" src="https://cdn.jsdelivr.net/gh/inlang/inlang/assets/logo-white-background.png"/>
